@@ -1,0 +1,27 @@
+ body
+      {
+      background-color: beige;
+     }
+ h1
+     {
+     color: deepskyblue;
+     }
+ h3
+     {
+     color: deepskyblue;
+     }
+h4   {
+     color: rgb(206, 22, 22);
+     }
+img
+     {
+      max-width: 10%;
+      max-height: 10%;
+     }
+hr
+        {
+            border-style: none;
+            border-top-style: dotted;
+            border-width: 5px;
+            width: 10%;
+        }
